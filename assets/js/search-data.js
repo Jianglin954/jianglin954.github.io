@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-experience",
+          title: "experience",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/experience/";
+          },
         },{id: "nav-notes",
           title: "notes",
           description: "",
@@ -415,8 +422,8 @@ ninja.data = [{
             },},{id: "news-one-paper-accepted-to-neurips-2023-see-you-in-new-orleans",
           title: 'One paper accepted to NeurIPS 2023. See you in New Orleans !',
           description: "",
-          section: "News",},{id: "news-invited-to-give-a-talk-at-aclab-by-prof-sarah-ostadabbas",
-          title: 'Invited to give a talk at ACLab by Prof. Sarah Ostadabbas ! 🎤...',
+          section: "News",},{id: "news-invited-to-give-a-talk-at-aclab-by-prof-sarah-ostadabbas-slides",
+          title: 'Invited to give a talk at ACLab by Prof. Sarah Ostadabbas [Slides] !...',
           description: "",
           section: "News",},{id: "news-joined-adobe-research-as-a-full-time-research-scientist-intern-see-you-in-san-jose-sparkles-smile",
           title: 'Joined Adobe Research as a full-time Research Scientist intern. See you in San...',
