@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
 wechat_qr: wechat-qr.png
-extra_note: > 
-  I am open to collabrate with any interesting project. 
-  I am actively seeking an internship position in Summer/Fall 2026. Please feel free to reach out if you have any openings!
+extra_note: >
+  Open to exciting research collaborations and <strong><span style="color: var(--global-theme-color);">actively seeking internship opportunities for Summer/Fall 2026 and Spring 2027</span></strong>. Feel free to reach out! :fire: :fire: 🚀  
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
