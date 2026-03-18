@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: notes
 nav: true
-nav_order: 2
+nav_order: 3
 pagination:
   enabled: true
   collection: posts
@@ -23,6 +23,7 @@ pagination:
     <a href="https://github.com/Jianglin954/Awesome-papers-in-the-fileds-of-CV-ML-PR-DM">Personal Reading List</a><br>
     <a href="https://jianglin954.github.io/Representation-Alignment-Survey/">Awesome Paper on Representation Alignment</a><br>
     <a href="https://github.com/Jianglin954/awesome-on-policy-distillation">Awesome On-Policy Distillation</a><br>
+    <a href="https://jianglin954.github.io/files/ACLab_Talk.pdf">Latent Graph Inference from Shallow to Deep</a><br>
     <a href="https://jianglin954.github.io/files/Introduction_of_Visual_Language_Action_Models.pdf">Introduction of Vision–Language-Action Models</a><br>
     <a href="https://jianglin954.github.io/files/Visual_Language_Models.pdf">Introduction of Vision–Language Models</a><br>
     <a href="https://jianglin954.github.io/files/Domain_Adaptation.pdf">Introduction of Domain Adaptation</a><br>
