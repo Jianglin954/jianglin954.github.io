@@ -81,8 +81,9 @@
           }
         }
 
-        > em {
-          border-bottom: 1px solid;
+        > span.author-self {
+          font-weight: normal;
+          text-decoration: none;
           font-style: normal;
         }
 

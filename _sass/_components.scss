@@ -122,6 +122,20 @@ ul.task-list input[type="checkbox"] {
   transform: translateX(-15px) translateY(-5px);
 }
 
+// News scrollbar
+.news-scroll {
+  display: block;
+  max-height: 13rem;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding-right: 0.5rem;
+  margin-right: -0.5rem;
+}
+
+.news-scroll .table {
+  margin-bottom: 0;
+}
+
 // Projects
 
 .projects {
@@ -215,6 +229,76 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Bigger social icons in the about-page header
+.post-header {
+  margin-bottom: 1.2rem;
+
+  .about-main {
+    min-width: 0;
+  }
+
+  .contact-icons {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.5rem;
+    align-items: center;
+    font-size: 2rem;
+    line-height: 1;
+    overflow-x: auto;
+    padding-bottom: 0.15rem;
+    color: var(--global-theme-color);
+
+    a {
+      text-decoration: none;
+      color: inherit;
+
+      img {
+        width: 2rem;
+        height: 2rem;
+      }
+
+      svg {
+        width: 2rem;
+        height: 2rem;
+        fill: currentColor;
+
+        image {
+          width: 2rem;
+          height: 2rem;
+        }
+      }
+
+      i::before {
+        color: inherit;
+        transition-property: all 0.2s ease-in-out;
+      }
+
+      &:hover {
+        color: var(--global-hover-color);
+
+        i::before {
+          color: inherit;
+        }
+      }
+    }
+  }
+
+  .about-bio {
+    margin-top: 1rem;
+    width: 100%;
+    max-width: none;
+  }
+
+  .about-extra {
+    margin-top: 0.1rem;
+    width: 100%;
+  }
+}
+
+.selected-publications-title {
+  margin-top: 1.6rem;
+}
+
 .wechat-modal {
   display: none;
   position: fixed;
@@ -229,18 +313,64 @@ ul.task-list input[type="checkbox"] {
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-.wechat-modal > img {
-  display: block;
+.wechat-modal-content {
+  min-height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem 1rem;
+}
+
+.wechat-modal-card {
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 0.5rem;
+  padding: 1.25rem 1.25rem 1rem;
+  max-width: 420px;
+  text-align: center;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.25);
   position: relative;
-  top: 50%;
-  left: 50%;
-  width: 33%;
-  max-width: 400px;
-  transform: translate(-50%, -50%);
+
+  .wechat-modal-close {
+    position: absolute;
+    left: 0.75rem;
+    top: 0.75rem;
+    width: 1.1rem;
+    height: 1.1rem;
+    border-radius: 999px;
+    border: 1px solid var(--global-divider-color);
+    background: transparent;
+    color: var(--global-text-color);
+    font-size: 0.9rem;
+    line-height: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    cursor: pointer;
+    transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+
+    &:hover {
+      background-color: var(--global-theme-color);
+      color: var(--global-hover-text-color);
+      border-color: var(--global-theme-color);
+    }
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+
+  p {
+    margin: 0;
+  }
 }
 
 @media only screen and (max-width: 400px) {
-  .wechat-modal > img {
+  .wechat-modal-card {
     width: 100%;
   }
 }

@@ -2,33 +2,31 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  Email: <a href="mailto:jianglinlu@outlook.com">jianglinlu <strong>at</strong> outlook <strong>dot</strong> com</a><br>
 
 profile:
-  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+wechat_qr: wechat-qr.png
+extra_note: > 
+  I am open to collabrate with any interesting project. 
+  I am actively seeking an internship position in Summer/Fall 2026. Please feel free to reach out if you have any openings!
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social icons are shown in the header now
 
 announcements:
   enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  scrollable: true # adds a vertical scroll bar if there are more than 5 news items
+  limit: 5 # show a scrollbar after 5 news items
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am a Ph.D. candidate in the <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a> of the <a href="https://ece.northeastern.edu/">Department of ECE</a>, <a href="https://www.northeastern.edu/">Northeastern University (NEU)</a>, under the supervision of <a href="http://www1.ece.neu.edu/~yunfu/">Prof. Yun Raymond Fu</a> (Member of Academia Europaea, Fellow of ACM, AAAS, AAAI, IEEE, IAPR). My current research interests primarily focus on <strong>generative AI, multimodal LLMs, VLA, reinforcement learning, latent reasoning, AI agents, and world models</strong>. I have interned at <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://www.nec-labs.com/">NEC Labs</a>, <a href="https://research.adobe.com/">Adobe Research</a> and <a href="https://www.tencentmusic.com/en-us/">Tencent Music Entertainment</a>. 
