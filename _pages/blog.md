@@ -24,11 +24,11 @@ pagination:
     <a href="https://jianglin954.github.io/Representation-Alignment-Survey/">Awesome Paper on Representation Alignment</a><br>
     <a href="https://github.com/Jianglin954/awesome-on-policy-distillation">Awesome On-Policy Distillation</a><br>
     <a href="https://jianglin954.github.io/files/ACLab_Talk.pdf">Latent Graph Inference from Shallow to Deep</a><br>
-    <a href="https://jianglin954.github.io/files/Introduction_of_Visual_Language_Action_Models.pdf">Introduction of Vision–Language-Action Models</a><br>
-    <a href="https://jianglin954.github.io/files/Visual_Language_Models.pdf">Introduction of Vision–Language Models</a><br>
-    <a href="https://jianglin954.github.io/files/Domain_Adaptation.pdf">Introduction of Domain Adaptation</a><br>
-    <a href="https://jianglin954.github.io/files/Graph_Neural_Network.pdf">Introduction of Graph Neural Networks</a><br>
-    <a href="https://jianglin954.github.io/files/Learning_with_Noisy_Labels.pdf">Introduction of Learning with Noisy Labels</a><br>
-    <a href="">Introduction of Model Quantization</a><span style="color:#888;"> (coming soon)</span><br> 
+    <a href="https://jianglin954.github.io/files/Introduction_of_Visual_Language_Action_Models.pdf">Introduction to Vision–Language-Action Models</a><br>
+    <a href="https://jianglin954.github.io/files/Visual_Language_Models.pdf">Introduction to Vision–Language Models</a><br>
+    <a href="https://jianglin954.github.io/files/Domain_Adaptation.pdf">Introduction to Domain Adaptation</a><br>
+    <a href="https://jianglin954.github.io/files/Graph_Neural_Network.pdf">Introduction to Graph Neural Networks</a><br>
+    <a href="https://jianglin954.github.io/files/Learning_with_Noisy_Labels.pdf">Introduction to Learning with Noisy Labels</a><br>
+    <a href="">Introduction to Model Quantization</a><span style="color:#888;"> (coming soon)</span><br> 
   </p>
 </div>
