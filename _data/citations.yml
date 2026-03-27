@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-27'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -30,7 +30,7 @@ papers:
     title: Robust Self-expression Learning with Adaptive Noise Perception
     year: '2024'
   H8_Rl5UAAAAJ:MXK_kJrjxJIC:
-    citations: 4
+    citations: 5
     title: 'Representation potentials of foundation models for multimodal alignment: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:Tyk-4Ss8FVUC:
@@ -46,7 +46,7 @@ papers:
     title: Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation
     year: '2022'
   H8_Rl5UAAAAJ:W7OEmFMy1HYC:
-    citations: 37
+    citations: 38
     title: Local graph convolutional networks for cross-modal hashing
     year: '2021'
   H8_Rl5UAAAAJ:Y0pCki6q_DkC:
@@ -62,7 +62,7 @@ papers:
     title: 'Seeing Through Words: Controlling Visual Retrieval Quality with Language Models'
     year: '2026'
   H8_Rl5UAAAAJ:d1gkVwhDpl0C:
-    citations: 32
+    citations: 33
     title: 'Generalized embedding regression: A framework for supervised feature extraction'
     year: '2020'
   H8_Rl5UAAAAJ:eQOLeE2rZwMC:
@@ -70,7 +70,7 @@ papers:
     title: Asymmetric transfer hashing with adaptive bipartite graph learning
     year: '2023'
   H8_Rl5UAAAAJ:kNdYIx-mwKoC:
-    citations: 1
+    citations: 2
     title: Outlier-Aware Post-Training Quantization for Image Super-Resolution
     year: '2025'
   H8_Rl5UAAAAJ:qjMakFHDy7sC:
@@ -90,6 +90,6 @@ papers:
     title: Latent graph inference with limited supervision
     year: '2023'
   H8_Rl5UAAAAJ:zYLM7Y9cAGgC:
-    citations: 8
+    citations: 9
     title: Deep asymmetric hashing with dual semantic regression and class structure quantization
     year: '2022'
