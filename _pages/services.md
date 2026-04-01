@@ -19,8 +19,8 @@ nav_order: 5
     <li>European Conference on Computer Vision (ECCV)</li>
     <li>The Association for the Advancement of Artificial Intelligence (AAAI)</li>
     <li>SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)</li>
-    <li>The 64th Annual Meeting of the Association for Computational Linguistics (ACL)</li>
-    <li>The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</li>
+    <li>The Annual Meeting of the Association for Computational Linguistics (ACL)</li>
+    <li>Conference on Empirical Methods in Natural Language Processing (EMNLP)</li>
     <li>ACM International Conference on Multimedia (ACM MM)</li>
     <li>International Conference on Artificial Intelligence and Statistics (AISTATS)</li>
   </ul>
