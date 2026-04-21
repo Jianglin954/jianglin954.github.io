@@ -9,40 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "publications by categories in reversed chronological order.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-experience",
-          title: "experience",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/experience/";
-          },
-        },{id: "nav-notes",
+  },{id: "nav-notes",
           title: "notes",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
-          },
-        },{id: "nav-repositories",
-          title: "repositories",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/repositories/";
-          },
-        },{id: "nav-services",
-          title: "services",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/services/";
           },
         },{id: "post-a-post-with-plotly-js",
         
