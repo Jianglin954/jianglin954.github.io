@@ -2,7 +2,7 @@
 layout: page
 permalink: /experience/
 title: experience
-nav: true
+nav: false
 nav_order: 2
 ---
 
