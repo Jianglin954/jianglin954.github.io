@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-22'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -7,14 +7,14 @@ papers:
     year: '2025'
   H8_Rl5UAAAAJ:3fE2CSJIrl8C:
     citations: 2
-    title: The indra representation hypothesis
+    title: The Indra Representation Hypothesis for Multimodal Alignment
     year: '2025'
   H8_Rl5UAAAAJ:4TOpqqG69KYC:
     citations: 0
     title: 'Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks'
     year: '2026'
   H8_Rl5UAAAAJ:8k81kl-MbHgC:
-    citations: 13
+    citations: 16
     title: 'Trajectory prediction meets large language models: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:9yKSN-GCB0IC:
@@ -29,8 +29,12 @@ papers:
     citations: 0
     title: Robust Self-expression Learning with Adaptive Noise Perception
     year: '2024'
+  H8_Rl5UAAAAJ:M3ejUd6NZC8C:
+    citations: 0
+    title: 'ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model'
+    year: '2026'
   H8_Rl5UAAAAJ:MXK_kJrjxJIC:
-    citations: 5
+    citations: 7
     title: 'Representation potentials of foundation models for multimodal alignment: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:Tyk-4Ss8FVUC:
@@ -46,7 +50,7 @@ papers:
     title: Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation
     year: '2022'
   H8_Rl5UAAAAJ:W7OEmFMy1HYC:
-    citations: 38
+    citations: 39
     title: Local graph convolutional networks for cross-modal hashing
     year: '2021'
   H8_Rl5UAAAAJ:Y0pCki6q_DkC:
@@ -66,7 +70,7 @@ papers:
     title: 'Generalized embedding regression: A framework for supervised feature extraction'
     year: '2020'
   H8_Rl5UAAAAJ:eQOLeE2rZwMC:
-    citations: 17
+    citations: 18
     title: Asymmetric transfer hashing with adaptive bipartite graph learning
     year: '2023'
   H8_Rl5UAAAAJ:kNdYIx-mwKoC:
@@ -77,6 +81,10 @@ papers:
     citations: 4
     title: Label self-adaption hashing for image retrieval
     year: '2021'
+  H8_Rl5UAAAAJ:qxL8FJ1GzNcC:
+    citations: 1
+    title: 'SimpleCall: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback'
+    year: '2025'
   H8_Rl5UAAAAJ:u-x6o8ySG0sC:
     citations: 7
     title: Global structure-guided neighborhood preserving embedding for dimensionality reduction
@@ -86,7 +94,7 @@ papers:
     title: Deep superpixel cut for unsupervised image segmentation
     year: '2021'
   H8_Rl5UAAAAJ:ufrVoPGSRksC:
-    citations: 9
+    citations: 10
     title: Latent graph inference with limited supervision
     year: '2023'
   H8_Rl5UAAAAJ:zYLM7Y9cAGgC:
