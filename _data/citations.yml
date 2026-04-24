@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-24'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -38,7 +38,7 @@ papers:
     title: 'Representation potentials of foundation models for multimodal alignment: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 76
+    citations: 77
     title: Low-rank adaptive graph embedding for unsupervised feature extraction
     year: '2021'
   H8_Rl5UAAAAJ:ULOm3_A8WrAC:
