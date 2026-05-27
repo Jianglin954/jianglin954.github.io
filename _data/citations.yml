@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-27'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -34,7 +34,7 @@ papers:
     title: 'ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model'
     year: '2026'
   H8_Rl5UAAAAJ:MXK_kJrjxJIC:
-    citations: 7
+    citations: 8
     title: 'Representation potentials of foundation models for multimodal alignment: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:Tyk-4Ss8FVUC:
@@ -46,7 +46,7 @@ papers:
     title: Unequal scientific recognition in the age of llms
     year: '2025'
   H8_Rl5UAAAAJ:UebtZRa9Y70C:
-    citations: 78
+    citations: 79
     title: Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation
     year: '2022'
   H8_Rl5UAAAAJ:W7OEmFMy1HYC:
@@ -74,7 +74,7 @@ papers:
     title: Asymmetric transfer hashing with adaptive bipartite graph learning
     year: '2023'
   H8_Rl5UAAAAJ:kNdYIx-mwKoC:
-    citations: 2
+    citations: 3
     title: Outlier-Aware Post-Training Quantization for Image Super-Resolution
     year: '2025'
   H8_Rl5UAAAAJ:qjMakFHDy7sC:
@@ -82,7 +82,7 @@ papers:
     title: Label self-adaption hashing for image retrieval
     year: '2021'
   H8_Rl5UAAAAJ:qxL8FJ1GzNcC:
-    citations: 1
+    citations: 3
     title: 'SimpleCall: A Lightweight Image Restoration Agent in Label-Free Environments with MLLM Perceptual Feedback'
     year: '2025'
   H8_Rl5UAAAAJ:u-x6o8ySG0sC:
