@@ -430,7 +430,7 @@ ninja.data = [{
           title: 'Joined Amazon AGI as a full-time Applied Scientist intern. :sparkles: :smile:',
           description: "",
           section: "News",},{id: "news-our-new-paper-muse-a-unified-agentic-harness-for-mllms-is-now-available-on-arxiv-fire-fire",
-          title: 'Our new paper MUSE (A Unified Agentic Harness for MLLMs) is now available...',
+          title: 'Our new paper MUSE: A Unified Agentic Harness for MLLMs is now available...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
