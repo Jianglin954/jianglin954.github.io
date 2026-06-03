@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 wechat_qr: wechat-qr.png
 extra_note: >
-  Open to exciting research collaborations and <strong><span style="color: var(--global-theme-color);">actively seeking internship opportunities for Fall 2026 and Spring 2027</span></strong>. Feel free to reach out! :fire: :fire: 🚀  
+  Open to exciting research collaborations and <strong><span style="color: var(--global-theme-color);">actively seeking internship/full-time opportunities for Fall 2026 and Spring/Summer 2027</span></strong>. Feel free to reach out! :fire: :fire: 🚀  
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,4 +28,4 @@ latest_posts:
 
 ---
 
-I am a Ph.D. candidate in the <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a> of the <a href="https://ece.northeastern.edu/">Department of ECE</a>, <a href="https://www.northeastern.edu/">Northeastern University (NEU)</a>, under the supervision of <a href="http://www1.ece.neu.edu/~yunfu/">Prof. Yun Raymond Fu</a> (Member of Academia Europaea, Fellow of ACM, AAAS, AAAI, IEEE, IAPR). My current research interests primarily focus on GenAI, <strong>including multimodal LLMs, AI agents, reinforcement learning, harness engineering, and latent (visual) reasoning</strong>. I have interned at <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI</a>, <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://research.adobe.com/">Adobe Research</a>, <a href="https://www.nec-labs.com/">NEC Labs</a>, and <a href="https://www.tencentmusic.com/en-us/">Tencent Music Entertainment</a>.
+I am a Ph.D. candidate in the <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a> of the <a href="https://ece.northeastern.edu/">Department of ECE</a>, <a href="https://www.northeastern.edu/">Northeastern University (NEU)</a>, under the supervision of <a href="http://www1.ece.neu.edu/~yunfu/">Prof. Yun Raymond Fu</a> (Member of Academia Europaea, Fellow of ACM, AAAS, AAAI, IEEE, IAPR). My research interests primarily focus on GenAI, <strong>including multimodal LLMs, AI agents, reinforcement learning, harness engineering, and latent reasoning</strong>. I have interned at <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI</a>, <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://research.adobe.com/">Adobe Research</a>, and <a href="https://www.nec-labs.com/">NEC Labs</a>.
