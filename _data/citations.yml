@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-12'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -54,11 +54,11 @@ papers:
     title: Unequal scientific recognition in the age of llms
     year: '2025'
   H8_Rl5UAAAAJ:UebtZRa9Y70C:
-    citations: 79
+    citations: 80
     title: Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation
     year: '2022'
   H8_Rl5UAAAAJ:W7OEmFMy1HYC:
-    citations: 39
+    citations: 40
     title: Local graph convolutional networks for cross-modal hashing
     year: '2021'
   H8_Rl5UAAAAJ:Wp0gIr-vW9MC:
