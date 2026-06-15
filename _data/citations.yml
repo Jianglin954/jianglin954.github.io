@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-12'
+  last_updated: '2026-06-15'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -18,7 +18,7 @@ papers:
     title: 'Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks'
     year: '2026'
   H8_Rl5UAAAAJ:8k81kl-MbHgC:
-    citations: 16
+    citations: 17
     title: 'Trajectory prediction meets large language models: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:9ZlFYXVOiuMC:
@@ -50,7 +50,7 @@ papers:
     title: Low-rank adaptive graph embedding for unsupervised feature extraction
     year: '2021'
   H8_Rl5UAAAAJ:ULOm3_A8WrAC:
-    citations: 6
+    citations: 7
     title: Unequal scientific recognition in the age of llms
     year: '2025'
   H8_Rl5UAAAAJ:UebtZRa9Y70C:
@@ -63,7 +63,7 @@ papers:
     year: '2021'
   H8_Rl5UAAAAJ:Wp0gIr-vW9MC:
     citations: 1
-    title: 'Restore-R1: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback'
+    title: 'Restore-R1: Efficient image restoration agents via reinforcement learning with multimodal LLM perceptual feedback'
     year: '2026'
   H8_Rl5UAAAAJ:Y0pCki6q_DkC:
     citations: 39
