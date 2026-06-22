@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-15'
+  last_updated: '2026-06-22'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 4
@@ -14,11 +14,11 @@ papers:
     title: 'DualVision: RGB-infrared multimodal large language models for robust visual reasoning'
     year: '2026'
   H8_Rl5UAAAAJ:4TOpqqG69KYC:
-    citations: 3
+    citations: 4
     title: 'Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks'
     year: '2026'
   H8_Rl5UAAAAJ:8k81kl-MbHgC:
-    citations: 17
+    citations: 18
     title: 'Trajectory prediction meets large language models: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: 'Thinkjepa: Empowering latent world models with large vision-language reasoning model'
     year: '2026'
   H8_Rl5UAAAAJ:MXK_kJrjxJIC:
-    citations: 13
+    citations: 14
     title: 'Representation potentials of foundation models for multimodal alignment: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:Tyk-4Ss8FVUC:
@@ -58,12 +58,12 @@ papers:
     title: Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation
     year: '2022'
   H8_Rl5UAAAAJ:W7OEmFMy1HYC:
-    citations: 40
+    citations: 41
     title: Local graph convolutional networks for cross-modal hashing
     year: '2021'
   H8_Rl5UAAAAJ:Wp0gIr-vW9MC:
     citations: 1
-    title: 'Restore-R1: Efficient image restoration agents via reinforcement learning with multimodal LLM perceptual feedback'
+    title: 'Restore-R1: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback'
     year: '2026'
   H8_Rl5UAAAAJ:Y0pCki6q_DkC:
     citations: 39
