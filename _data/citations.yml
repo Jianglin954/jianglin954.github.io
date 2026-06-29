@@ -1,22 +1,26 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-29'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
-    citations: 4
+    citations: 5
     title: Scale-free graph-language models
     year: '2025'
   H8_Rl5UAAAAJ:3fE2CSJIrl8C:
-    citations: 7
+    citations: 9
     title: The Indra Representation Hypothesis for Multimodal Alignment
     year: '2025'
   H8_Rl5UAAAAJ:4DMP91E08xMC:
     citations: 1
-    title: 'DualVision: RGB-infrared multimodal large language models for robust visual reasoning'
+    title: 'DUALVISION: RGB-Infrared Multimodal Large Language Models for Robust Visual Reasoning'
     year: '2026'
   H8_Rl5UAAAAJ:4TOpqqG69KYC:
-    citations: 4
+    citations: 5
     title: 'Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks'
     year: '2026'
+  H8_Rl5UAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: 'IBQ: Quantizing LLMs via Intra- and Inter-Block Optimization'
+    year: Unknown Year
   H8_Rl5UAAAAJ:8k81kl-MbHgC:
     citations: 18
     title: 'Trajectory prediction meets large language models: A survey'
@@ -38,13 +42,17 @@ papers:
     title: Robust Self-expression Learning with Adaptive Noise Perception
     year: '2024'
   H8_Rl5UAAAAJ:M3ejUd6NZC8C:
-    citations: 1
+    citations: 2
     title: 'Thinkjepa: Empowering latent world models with large vision-language reasoning model'
     year: '2026'
   H8_Rl5UAAAAJ:MXK_kJrjxJIC:
-    citations: 14
+    citations: 16
     title: 'Representation potentials of foundation models for multimodal alignment: A survey'
     year: '2025'
+  H8_Rl5UAAAAJ:QIV2ME_5wuYC:
+    citations: 0
+    title: 'ACBQ: Adaptive Cross-Block Quantization of Large Language Models'
+    year: '2026'
   H8_Rl5UAAAAJ:Tyk-4Ss8FVUC:
     citations: 79
     title: Low-rank adaptive graph embedding for unsupervised feature extraction
@@ -54,11 +62,11 @@ papers:
     title: Unequal scientific recognition in the age of llms
     year: '2025'
   H8_Rl5UAAAAJ:UebtZRa9Y70C:
-    citations: 80
+    citations: 81
     title: Uncertainty-Guided Pixel Contrastive Learning for Semi-Supervised Medical Image Segmentation
     year: '2022'
   H8_Rl5UAAAAJ:W7OEmFMy1HYC:
-    citations: 41
+    citations: 42
     title: Local graph convolutional networks for cross-modal hashing
     year: '2021'
   H8_Rl5UAAAAJ:Wp0gIr-vW9MC:
@@ -85,12 +93,16 @@ papers:
     citations: 34
     title: 'Generalized embedding regression: A framework for supervised feature extraction'
     year: '2020'
+  H8_Rl5UAAAAJ:dhFuZR0502QC:
+    citations: 0
+    title: 'Revealing the Seen, Imagining the Beyond: A Survey of Image-Grounded Chain-of-Thought Reasoning in Multimodal LLMs'
+    year: '2026'
   H8_Rl5UAAAAJ:eQOLeE2rZwMC:
     citations: 18
     title: Asymmetric transfer hashing with adaptive bipartite graph learning
     year: '2023'
   H8_Rl5UAAAAJ:kNdYIx-mwKoC:
-    citations: 5
+    citations: 6
     title: Outlier-Aware Post-Training Quantization for Image Super-Resolution
     year: '2025'
   H8_Rl5UAAAAJ:mVmsd5A6BfQC:
@@ -114,7 +126,7 @@ papers:
     title: Deep superpixel cut for unsupervised image segmentation
     year: '2021'
   H8_Rl5UAAAAJ:ufrVoPGSRksC:
-    citations: 11
+    citations: 12
     title: Latent graph inference with limited supervision
     year: '2023'
   H8_Rl5UAAAAJ:zYLM7Y9cAGgC:
