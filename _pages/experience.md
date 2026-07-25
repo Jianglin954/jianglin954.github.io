@@ -2,12 +2,42 @@
 layout: page
 permalink: /experience/
 title: experience
-nav: false
-nav_order: 2
+nav: true
+nav_order: 3
 ---
 
 <div class="post">
-  <!-- NEC Labs -->
+
+  <!-- Tencent Music Entertainment -->
+  <div class="d-flex align-items-start mb-4">
+    <div class="experience-logo-wrapper">
+      <img
+        src="{{ '/assets/img/experience-aws.png' | relative_url }}"
+        alt="Amazon AGI Foundations"
+        class="experience-logo"
+      >
+    </div>
+    <div style="flex:1 1 auto; min-width:0;">
+      <div class="d-flex justify-content-between flex-wrap">
+        <div>
+          <a href="https://amazon.jobs/content/en/teams/agi"><strong>Amazon AGI Foundations</strong></a>
+        </div>
+        <div>
+          June 2026 — 
+        </div>
+      </div>
+      <div class="d-flex justify-content-between flex-wrap">
+        <div class="text-right"><em>Applied Scientist Intern</em></div>
+        <div>Full-Time, Boston, USA</div>
+      </div>
+      <div>Research Areas: <em>Video World Models, Diffusion Models, Action-Controlled Video Generation</em></div>
+      <div>
+        Project: ongoing project on interactive video world models. Build a large-scale game datasets for action-contorlled video generation, and transform a bidirectional video diffusion model to a causal one based on self-forcing for autoregressive video generation.
+      </div>
+    </div>
+  </div>
+
+  <!-- NEC Labs 
   <div class="d-flex align-items-start mb-4">
     <div class="experience-logo-wrapper">
       <img
@@ -33,6 +63,7 @@ nav_order: 2
       <div>Project: ongoing research on large reasoning models and VLA.</div>
     </div>
   </div>
+  -->
 
   <!-- Amazon Web Services -->
   <div class="d-flex align-items-start mb-4">
@@ -58,7 +89,7 @@ nav_order: 2
       </div>
       <div>Research Areas: <em>LLMs, VLMs, AI Agents, Reinforcement Learning, Image Restoration</em></div>
       <div>
-        Project: developed an agentic system for complex image restoration by fine-tuning a VLM to identify degradations, employing an LLM for restoration planning, and training a reinforcement learning agent to optimize tool execution sequences <em>(CVPR 2026)</em>.
+        Project: proposed Restore-R1, an agentic solution for complex image restoration by fine-tuning a VLM to identify degradations, employing an LLM for restoration planning, and training a reinforcement learning agent to optimize tool execution sequences (one paper accepted to <a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_Restore-R1_Efficient_Image_Restoration_Agents_via_Reinforcement_Learning_with_Multimodal_CVPRF_2026_paper.pdf">CVPR 2026</a>).
       </div>
     </div>
   </div>
@@ -85,41 +116,12 @@ nav_order: 2
         <div class="text-right">Research Scientist Intern</div>
         <div>Full-Time, San Jose, USA</div>
       </div>
-      <div>Research Areas: <em>LLMs, VLMs, Multimodal Alignment, Retrieval, Recommendation</em></div>
+      <div>Research Areas: <em>LLMs, VLMs, Multimodal Alignment, Retrieval \& Recommendation</em></div>
       <div>
-        Project I: proposed a quality-controllable search framework that trains an LLM for query refinement and integrates a VLM for text–image semantic matching, providing customers more aesthetic and higher-quality recommendations <em>(ICLR 2026)</em>.
+        Project I: proposed a visual-quality-controllable multimodal retrieval framework that trains an LLM for query refinement and integrates a VLM for text–image semantic matching, providing customers more aesthetic and higher-quality recommendations (one paper accepted to <a href="https://arxiv.org/pdf/2602.21175">ICLR 2026</a>).
       </div>
       <div>
-        Project II: proposed the Indra Representation Hypothesis, showing that independently trained unimodal foundation models implicitly converge to a shared relational structure of reality, formulated via V-enriched Yoneda embeddings <em>(NeurIPS 2025)</em>.
-      </div>
-    </div>
-  </div>
-
-  <!-- Tencent Music Entertainment -->
-  <div class="d-flex align-items-start mb-4">
-    <div class="experience-logo-wrapper">
-      <img
-        src="{{ '/assets/img/experience-tme.svg' | relative_url }}"
-        alt="Tencent Music Entertainment"
-        class="experience-logo"
-      >
-    </div>
-    <div style="flex:1 1 auto; min-width:0;">
-      <div class="d-flex justify-content-between flex-wrap">
-        <div>
-          <a href="https://www.tencentmusic.com/en-us/"><strong>Tencent Music Entertainment</strong></a>
-        </div>
-        <div>
-          Nov 2020 — Apr 2021
-        </div>
-      </div>
-      <div class="d-flex justify-content-between flex-wrap">
-        <div class="text-right"><em>Research Scientist Intern</em></div>
-        <div>Full-Time, Shenzhen, China</div>
-      </div>
-      <div>Research Areas: <em>Graph Learning, Hashing, Domain Adaptation, Retrieval, Recommendation</em></div>
-      <div>
-        Project: proposed an efficient asymmetric hashing approach for cross-modal and cross-domain search by learning an adaptive bipartite graph that models modality- and domain-level relationships, resulting in more accurate search results <em>(TCYB 2023)</em>.
+        Project II: proposed the Indra Representation Hypothesis for multimodal alignment, showing that independently trained unimodal foundation models implicitly converge to a shared relational structure of reality (one paper accepted to <a href="https://arxiv.org/pdf/2604.04496">NeurIPS 2025</a>).
       </div>
     </div>
   </div>
