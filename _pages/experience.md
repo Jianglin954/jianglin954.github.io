@@ -32,7 +32,7 @@ nav_order: 3
       </div>
       <div>Research Areas: <em>Video World Models, Diffusion Models, Action-Controlled Video Generation</em></div>
       <div>
-        Project: ongoing project on interactive video world models. Build a large-scale game datasets for action-contorlled video generation, and transform a bidirectional video diffusion model to a causal one based on self-forcing for autoregressive video generation.
+        Project: ongoing project on interactive video world models. Build a large-scale datasets for action-contorlled video generation, and transform a bidirectional video diffusion model to a causal one based on self-forcing for autoregressive video generation.
       </div>
     </div>
   </div>
@@ -87,7 +87,7 @@ nav_order: 3
         <div class="text-right">Applied Scientist Intern</div>
         <div>Full-Time, Seattle, USA</div>
       </div>
-      <div>Research Areas: <em>LLMs, VLMs, AI Agents, Reinforcement Learning, Image Restoration</em></div>
+      <div>Research Areas: <em>LLMs, VLMs, AI Agents, Reinforcement Learning, Low-Level Vision</em></div>
       <div>
         Project: proposed Restore-R1, an agentic solution for complex image restoration by fine-tuning a VLM to identify degradations, employing an LLM for restoration planning, and training a reinforcement learning agent to optimize tool execution sequences (one paper accepted to <a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_Restore-R1_Efficient_Image_Restoration_Agents_via_Reinforcement_Learning_with_Multimodal_CVPRF_2026_paper.pdf">CVPR 2026</a>).
       </div>
@@ -116,7 +116,7 @@ nav_order: 3
         <div class="text-right">Research Scientist Intern</div>
         <div>Full-Time, San Jose, USA</div>
       </div>
-      <div>Research Areas: <em>LLMs, VLMs, Multimodal Alignment, Retrieval \& Recommendation</em></div>
+      <div>Research Areas: <em>LLMs, VLMs, Multimodal Alignment, Retrieval & Recommendation</em></div>
       <div>
         Project I: proposed a visual-quality-controllable multimodal retrieval framework that trains an LLM for query refinement and integrates a VLM for text–image semantic matching, providing customers more aesthetic and higher-quality recommendations (one paper accepted to <a href="https://arxiv.org/pdf/2602.21175">ICLR 2026</a>).
       </div>
