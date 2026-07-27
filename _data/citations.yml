@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-27'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
-    citations: 5
+    citations: 6
     title: Scale-free graph-language models
     year: '2025'
   H8_Rl5UAAAAJ:3fE2CSJIrl8C:
-    citations: 9
+    citations: 8
     title: The Indra Representation Hypothesis for Multimodal Alignment
     year: '2025'
   H8_Rl5UAAAAJ:4DMP91E08xMC:
@@ -22,15 +22,15 @@ papers:
     title: 'IBQ: Quantizing LLMs via Intra- and Inter-Block Optimization'
     year: Unknown Year
   H8_Rl5UAAAAJ:8k81kl-MbHgC:
-    citations: 18
+    citations: 20
     title: 'Trajectory prediction meets large language models: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:9ZlFYXVOiuMC:
-    citations: 0
+    citations: 1
     title: 'MUSE: A Unified Agentic Harness for MLLMs'
     year: '2026'
   H8_Rl5UAAAAJ:9yKSN-GCB0IC:
-    citations: 23
+    citations: 24
     title: Target redirected regression with dynamic neighborhood structure
     year: '2021'
   H8_Rl5UAAAAJ:IjCSPb-OGe4C:
@@ -42,11 +42,11 @@ papers:
     title: Robust Self-expression Learning with Adaptive Noise Perception
     year: '2024'
   H8_Rl5UAAAAJ:M3ejUd6NZC8C:
-    citations: 3
+    citations: 5
     title: 'Thinkjepa: Empowering latent world models with large vision-language reasoning model'
     year: '2026'
   H8_Rl5UAAAAJ:MXK_kJrjxJIC:
-    citations: 16
+    citations: 17
     title: 'Representation potentials of foundation models for multimodal alignment: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:QIV2ME_5wuYC:
@@ -54,7 +54,7 @@ papers:
     title: 'ACBQ: Adaptive Cross-Block Quantization of Large Language Models'
     year: '2026'
   H8_Rl5UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 79
+    citations: 80
     title: Low-rank adaptive graph embedding for unsupervised feature extraction
     year: '2021'
   H8_Rl5UAAAAJ:ULOm3_A8WrAC:
@@ -70,11 +70,11 @@ papers:
     title: Local graph convolutional networks for cross-modal hashing
     year: '2021'
   H8_Rl5UAAAAJ:Wp0gIr-vW9MC:
-    citations: 1
-    title: 'Restore-R1: Efficient Image Restoration Agents via Reinforcement Learning with Multimodal LLM Perceptual Feedback'
+    citations: 2
+    title: 'Restore-r1: Efficient image restoration agents via reinforcement learning with multimodal llm perceptual feedback'
     year: '2026'
   H8_Rl5UAAAAJ:Y0pCki6q_DkC:
-    citations: 40
+    citations: 41
     title: Deep semantic and attentive network for unsupervised video summarization
     year: '2022'
   H8_Rl5UAAAAJ:YOwf2qJgpHMC:
@@ -90,7 +90,7 @@ papers:
     title: Do VLMs read or rewrite?
     year: '2015'
   H8_Rl5UAAAAJ:d1gkVwhDpl0C:
-    citations: 34
+    citations: 35
     title: 'Generalized embedding regression: A framework for supervised feature extraction'
     year: '2020'
   H8_Rl5UAAAAJ:dhFuZR0502QC:
@@ -106,7 +106,7 @@ papers:
     title: Outlier-Aware Post-Training Quantization for Image Super-Resolution
     year: '2025'
   H8_Rl5UAAAAJ:mVmsd5A6BfQC:
-    citations: 0
+    citations: 1
     title: Training-Free Cross-Modal Alignment via Anchor Profiles with Statistical Significance Testing
     year: '2026'
   H8_Rl5UAAAAJ:qjMakFHDy7sC:
