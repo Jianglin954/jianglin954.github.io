@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-12'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -18,7 +18,7 @@ papers:
     title: 'Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks'
     year: '2026'
   H8_Rl5UAAAAJ:8k81kl-MbHgC:
-    citations: 20
+    citations: 22
     title: 'Trajectory prediction meets large language models: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: Robust Self-expression Learning with Adaptive Noise Perception
     year: '2024'
   H8_Rl5UAAAAJ:M3ejUd6NZC8C:
-    citations: 6
+    citations: 7
     title: 'Thinkjepa: Empowering latent world models with large vision-language reasoning model'
     year: '2026'
   H8_Rl5UAAAAJ:MXK_kJrjxJIC:
