@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-14'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -74,7 +74,7 @@ papers:
     title: 'Restore-r1: Efficient image restoration agents via reinforcement learning with multimodal llm perceptual feedback'
     year: '2026'
   H8_Rl5UAAAAJ:Y0pCki6q_DkC:
-    citations: 40
+    citations: 41
     title: Deep semantic and attentive network for unsupervised video summarization
     year: '2022'
   H8_Rl5UAAAAJ:YOwf2qJgpHMC:
