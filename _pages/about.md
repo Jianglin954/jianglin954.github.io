@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 wechat_qr: wechat-qr.png
 extra_note: >
-  Open to exciting research collaborations (WeChat: ljl050407) and <strong><span style="color: var(--global-theme-color);">actively seeking internship/full-time opportunities for Fall 2026 and Spring/Summer 2027</span></strong>. Feel free to reach out! :fire: :fire: 🚀  
+  Open to exciting research collaborations (WeChat: ljl050407) and <strong><span style="color: var(--global-theme-color);">actively seeking full-time opportunities for 2027</span></strong>. Feel free to reach out! :fire: :fire: 🚀  
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,4 +28,4 @@ latest_posts:
 
 ---
 
-I am a Ph.D. candidate in the <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a> of the <a href="https://ece.northeastern.edu/">Department of ECE</a>, <a href="https://www.northeastern.edu/">Northeastern University (NEU)</a>, under the supervision of <a href="http://www1.ece.neu.edu/~yunfu/">Prof. Yun Raymond Fu</a> (Member of Academia Europaea, Fellow of ACM, AAAS, AAAI, IEEE, IAPR). My current research interests focus on <strong> GenAI, including multimodal LLMs, diffusion models, video world models, AI agents, reinforcement learning, and latent reasoning</strong>. I have interned at <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI Foundations</a>, <a href="https://aws.amazon.com/">Amazon Web Services</a>, and <a href="https://research.adobe.com/">Adobe Research</a>.
+I am a Ph.D. candidate in the <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a> of the <a href="https://ece.northeastern.edu/">Department of ECE</a>, <a href="https://www.northeastern.edu/">Northeastern University (NEU)</a>, under the supervision of <a href="http://www1.ece.neu.edu/~yunfu/">Prof. Yun Raymond Fu</a> (Member of Academia Europaea, Fellow of ACM, AAAS, AAAI, IEEE, IAPR). My current research interests focus on <strong> GenAI, including multimodal LLMs, video world models, AI agents, and reinforcement learning</strong>. I have interned at <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI Foundations</a>, <a href="https://aws.amazon.com/">Amazon Web Services</a>, and <a href="https://research.adobe.com/">Adobe Research</a>.
