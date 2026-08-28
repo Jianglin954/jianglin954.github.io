@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-28'
 papers:
   H8_Rl5UAAAAJ:0EnyYjriUFMC:
     citations: 6
@@ -18,7 +18,7 @@ papers:
     title: 'Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks'
     year: '2026'
   H8_Rl5UAAAAJ:8k81kl-MbHgC:
-    citations: 22
+    citations: 23
     title: 'Trajectory prediction meets large language models: A survey'
     year: '2025'
   H8_Rl5UAAAAJ:9ZlFYXVOiuMC:
@@ -54,7 +54,7 @@ papers:
     title: 'ACBQ: Adaptive Cross-Block Quantization of Large Language Models'
     year: '2026'
   H8_Rl5UAAAAJ:Tyk-4Ss8FVUC:
-    citations: 80
+    citations: 81
     title: Low-rank adaptive graph embedding for unsupervised feature extraction
     year: '2021'
   H8_Rl5UAAAAJ:ULOm3_A8WrAC:
