@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
 wechat_qr: wechat-qr.png
 extra_note: >
-  Open to exciting research collaborations (WeChat: ljl050407) and <strong><span style="color: var(--global-theme-color);">actively seeking full-time opportunities for 2027</span></strong>. Feel free to reach out! :fire: :fire: 🚀  
+  Open to exciting research collaborations (WeChat: ljl050407) and <strong><span style="color: var(--global-theme-color);">actively seeking full-time opportunities for 2027</span></strong>.<br>
+  Feel free to reach out! :fire: :fire: 🚀  
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
