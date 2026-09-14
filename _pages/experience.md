@@ -53,7 +53,7 @@ nav_order: 3
           <a href="https://www.nec-labs.com/"><strong>NEC Laboratories America</strong></a>
         </div>
         <div>
-          Jan 2026 — Now
+          Jan 2026 — May 2026
         </div>
       </div>
       <div class="d-flex justify-content-between flex-wrap">
