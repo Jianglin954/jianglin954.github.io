@@ -126,7 +126,7 @@ nav_order: 3
       <div>
            Built Flickr2.4M, a 2.4 million image-caption training corpus; Developed a multimodal retrieval and recommendation framework integrating LLM-based query refinement with VLM-based text–image matching; Trained and evaluated GPT2-1.5B/Qwen2.5-0.5B with CoCa/Blip2/OpenCLIP on 8 NVIDIA A100 GPUs, delivering more relevant and visually appealing recommendations (one paper accepted to <a href="https://arxiv.org/pdf/2602.21175">ICLR 2026</a>).
       </div>
-      <div></div>
+      <div style="height: 10px;"></div>
       <div>Project II: Indra Representation Hypothesis @ Adobe Research Team </div>
       <div>
            Established a theoretical foundation for multimodal alignment, validated it across vision (ViT/ConvNeXt/DINOv2), language (BERT/RoBERTa), and audio models (Wav2vec/WavLM/HuBERT), showing that independently trained foundation models implicitly converge to a shared relational structure across modalities (one paper accepted to <a href="https://arxiv.org/pdf/2604.04496">NeurIPS 2025</a>).
