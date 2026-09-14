@@ -10,7 +10,8 @@ profile:
   image_circular: false # crops the image to make it circular
 wechat_qr: wechat-qr.png
 extra_note: >
-  I build multimodal AI systems that understand, reason about, generate, and interact with the world, drawing on hands-on experience in large-scale dataset construction, foundation model training, and agentic system development. I am <strong><span style="color: var(--global-theme-color);">actively seeking full-time Research Scientist, Applied Scientist, and Research Engineer opportunities in North America for 2027</span></strong>. Feel free to reach out! :fire: :fire: 🚀  
+  I build multimodal AI systems that understand, reason about, generate, and interact with the world, drawing on hands-on experience in large-scale dataset construction, foundation model training, and agentic system development. I am actively <strong><span style="color: var(--global-theme-color);">seeking full-time Research Scientist, Applied Scientist, and Research Engineer opportunities in North America for 2027</span></strong>. <br>
+  Feel free to reach out! :fire: :fire: 🚀  
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
