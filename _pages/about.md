@@ -10,10 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
 wechat_qr: wechat-qr.png
 extra_note: >
-  I build multimodal AI systems that understand, reason, generate, and interact with the world.  <br>
-  I combine multimodal AI research with hands-on experience building large-scale datasets, training foundation models, and developing agentic systems.  <br>
-  I am <strong><span style="color: var(--global-theme-color);">actively seeking full-time Research Scientist, Applied Scientist, and Research Engineer opportunities in North America for 2027</span></strong>. <br>
-  Feel free to reach out! :fire: :fire: 🚀  
+  I build multimodal AI systems that understand, reason about, generate, and interact with the world, drawing on hands-on experience in large-scale dataset construction, foundation model training, and agentic system development. I am <strong><span style="color: var(--global-theme-color);">actively seeking full-time Research Scientist, Applied Scientist, and Research Engineer opportunities in North America for 2027</span></strong>. Feel free to reach out! :fire: :fire: 🚀  
 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -31,6 +28,6 @@ latest_posts:
 
 ---
 
-I am a final-year Ph.D. candidate in the <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a> of the <a href="https://ece.northeastern.edu/">Department of ECE</a>, <a href="https://www.northeastern.edu/">Northeastern University (NEU)</a>, under the supervision of <a href="http://www1.ece.neu.edu/~yunfu/">Prof. Yun Raymond Fu</a> (Member of Academia Europaea, ACM/AAAS/AAAI/IEEE Fellow). 
+I am a final-year Ph.D. candidate in the <a href="https://web.northeastern.edu/smilelab/">SMILE Lab</a>, <a href="https://www.northeastern.edu/">Northeastern University</a>, under the supervision of <a href="http://www1.ece.neu.edu/~yunfu/">Prof. Yun Raymond Fu</a> (Member of Academia Europaea, ACM/AAAS/AAAI/IEEE Fellow). 
 My current research interests focus on <strong> generative AI, including LLMs, multimodal LLMs, video world models, AI agents, and reinforcement learning</strong>. 
 My industry research experience spans <a href="https://amazon.jobs/content/en/teams/agi">Amazon AGI Foundations</a>, <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://research.adobe.com/">Adobe Research</a>, and <a href="https://www.nec-labs.com/">NEC Laboratories America</a>.
