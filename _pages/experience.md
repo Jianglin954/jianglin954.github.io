@@ -31,6 +31,7 @@ nav_order: 3
         <div>Full-Time, Boston, MA</div>
       </div>
       <div>Research Domain: <em>Video World Models, Diffusion Models, Action-Controlled Video Generation</em></div>
+      <div style="height: 10px;"></div>
       <div>Project: Interactive Video World Model @ Amazon AGI Foundations Team </div>
       <div>
            Built a large-scale Unreal Engine video dataset and training pipeline for action-controlled video generation; Scaled training from a 1.3B to a 14B bidirectional video diffusion model on 32 NVIDIA B200 GPUs, transformed it into a causal architecture for autoregressive video generation; Applied few-step diffusion distillation for accelerated inference.
@@ -61,6 +62,7 @@ nav_order: 3
         <div>Part-Time, Remote</div>
       </div>
       <div>Research Domain: <em>Latent Reasoning, Harness Engineering, Vision-Language-Action Models</em></div>
+      <div style="height: 10px;"></div>
       <div>Project: Multimodal Reasoning @ NEC Media Analytics Team </div>
       <div>
            Developed a latent visual reasoning system for high-level behavioral reasoning in autonomous-driving videos; Built a unified agentic harness around frozen multimodal LLMs (GPT-4o/GPT-5.4/Claude Haiku 4.5/Claude Opus 4.7) with composable visual processing, structured parsing, and verifier-guided repair, demonstrating that many model failures can be addressed at the harness level without backbone retraining (one paper released to <a href="https://arxiv.org/pdf/2606.03005">arXiv 2026</a>).
@@ -92,6 +94,7 @@ nav_order: 3
         <div>Full-Time, Seattle, WA</div>
       </div>
       <div>Research Domain: <em>LLMs, VLMs, AI Agents, Reinforcement Learning, Low-Level Vision</em></div>
+      <div style="height: 10px;"></div>
       <div>Project: Restore-R1 @ Amazon One Team </div>
       <div>
            Developed an end-to-end agentic system for complex image restoration by fine-tuning a VLM (mPLUG-Owl2/DeQA-Score) for quality evaluation, employing an LLM (GPT-4/Llama3) for restoration planning, and training a reinforcement learning policy (PPO/GRPO) on 8 NVIDIA L40S GPUs to optimize tool-execution sequences (one paper accepted to <a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_Restore-R1_Efficient_Image_Restoration_Agents_via_Reinforcement_Learning_with_Multimodal_CVPRF_2026_paper.pdf">CVPR 2026</a>).
@@ -122,6 +125,7 @@ nav_order: 3
         <div>Full-Time, San Jose, CA</div>
       </div>
       <div>Research Domain: <em>LLMs, VLMs, Multimodal Representation & Retrieval & Recommendation</em></div>
+      <div style="height: 10px;"></div>
       <div>Project I: Quality-Controllable Multimodal Retrieval @ Adobe Research Team </div>
       <div>
            Built Flickr2.4M, a 2.4 million image-caption training corpus; Developed a multimodal retrieval and recommendation framework integrating LLM-based query refinement with VLM-based text–image matching; Trained and evaluated GPT2-1.5B/Qwen2.5-0.5B with CoCa/Blip2/OpenCLIP on 8 NVIDIA A100 GPUs, delivering more relevant and visually appealing recommendations (one paper accepted to <a href="https://arxiv.org/pdf/2602.21175">ICLR 2026</a>).
