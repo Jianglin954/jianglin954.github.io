@@ -23,7 +23,7 @@ nav_order: 3
           <a href="https://amazon.jobs/content/en/teams/agi"><strong>Amazon AGI Foundations</strong></a>
         </div>
         <div>
-          June 2026 — 
+          June 2026 — Aug 2026
         </div>
       </div>
       <div class="d-flex justify-content-between flex-wrap">
@@ -117,7 +117,7 @@ nav_order: 3
           <a href="https://research.adobe.com/"><strong>Adobe Research</strong></a>
         </div>
         <div>
-          Sep 2024 — Jan 2025
+          Sep 2024 — Nov 2024
         </div>
       </div>
       <div class="d-flex justify-content-between flex-wrap">
