@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-demos",
           title: "demos",
-          description: "Interactive Video World Model — Amazon AGI Foundations.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/demos/";
