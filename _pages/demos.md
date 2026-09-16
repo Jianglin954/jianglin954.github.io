@@ -38,7 +38,7 @@ nav_order: 1
   </div>
   <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
-      <figure class="image-compare" style="--pos: 0%; --posn: 0">
+      <figure class="image-compare" style="--pos: 0%; --hide: 100%; --fade: 0">
         <div class="image-compare-strip rounded z-depth-1">
           <div class="image-compare-panel" style="flex-grow: 0.625">
             <img
@@ -178,7 +178,11 @@ nav_order: 1
   .image-compare-reveal {
     position: absolute;
     inset: 0;
-    clip-path: inset(0 calc(100% - var(--pos)) 0 0);
+    /* Deliberately no arithmetic here: jekyll-minifier, which only runs for
+       JEKYLL_ENV=production, rewrites the "--" of a custom property inside an
+       arithmetic expression into two minus signs and the declaration is dropped.
+       JS hands us finished values instead. */
+    clip-path: inset(0 var(--hide) 0 0);
   }
   .image-compare-line {
     position: absolute;
@@ -192,7 +196,7 @@ nav_order: 1
     pointer-events: none;
     /* At rest the second panel's line would land on the seam and read as a gutter
        between the photos, so the wipes only appear once you engage the slider. */
-    opacity: calc(var(--posn) * 8);
+    opacity: var(--fade);
     transition: opacity 0.15s ease;
   }
   .image-compare-strip:hover .image-compare-line,
@@ -245,7 +249,7 @@ nav_order: 1
   .image-compare-tag-left {
     left: 0.5rem;
     /* nothing is revealed at position 0, so fade this label in as the drag starts */
-    opacity: calc(var(--posn) * 8);
+    opacity: var(--fade);
   }
   .image-compare-tag-right {
     right: 0.5rem;
@@ -356,8 +360,10 @@ nav_order: 1
       const range = widget.querySelector(".image-compare-range");
       if (!range) return;
       const sync = function () {
-        widget.style.setProperty("--pos", range.value + "%");
-        widget.style.setProperty("--posn", range.value / 100);
+        const pos = Number(range.value);
+        widget.style.setProperty("--pos", pos + "%"); // where the wipe line sits
+        widget.style.setProperty("--hide", 100 - pos + "%"); // how much to clip away
+        widget.style.setProperty("--fade", Math.min(1, pos / 12.5)); // label/line fade-in
       };
       range.addEventListener("input", sync);
       sync(); // soft reloads restore the old value, so seed --pos from the input
