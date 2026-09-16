@@ -3,7 +3,7 @@ layout: default
 permalink: /blog/
 title: slides
 nav: true
-nav_order: 2
+nav_order: 3
 pagination:
   enabled: true
   collection: posts
