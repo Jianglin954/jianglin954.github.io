@@ -31,10 +31,35 @@ nav_order: 1
 
 <hr class="demo-divider" />
 
-<!-- ── Demo 2 (before/after slider) ───────────────────────── -->
+<!-- ── Demo 2 ─────────────────────────────────────────────── -->
+<div class="demo-item" id="driving-video">
+  <div class="caption">
+    During my internship at <a href="https://www.nec-labs.com/">NEC Laboratories America</a>, I worked on multimodal reasoning for driving video: a multimodal LLM perceives the scene, reasons about the ego vehicle's motion state, and predicts where it goes over the next few seconds.
+  </div>
+  <div class="row justify-content-sm-center">
+    <div class="col-sm-10 mt-3 mt-md-0">
+      {%
+        include video.liquid
+        path="assets/video/waymo_demo.mp4"
+        poster="assets/img/video_posters/waymo_demo.jpg"
+        class="img-fluid rounded z-depth-1"
+        preload="metadata"
+        autoplay=true
+        controls=true
+        muted=true
+        loop=true
+        playsinline=true
+      %}
+    </div>
+  </div>
+</div>
+
+<hr class="demo-divider" />
+
+<!-- ── Demo 3 (before/after slider) ───────────────────────── -->
 <div class="demo-item" id="restore-r1">
   <div class="caption">
-    During my internship at <a href="https://aws.amazon.com/">Amazon</a>, I worked on Restore-R1 (<a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_Restore-R1_Efficient_Image_Restoration_Agents_via_Reinforcement_Learning_with_Multimodal_CVPRF_2026_paper.pdf">CVPR 2026</a>): an image restoration agent that judges a degraded photo with a multimodal LLM and learns, through reinforcement learning, which restoration tools to call and in what order.
+    During my internship at <a href="https://aws.amazon.com/">Amazon</a>, I worked on Restore-R1: an image restoration agent that judges a degraded photo with a multimodal LLM and learns, through reinforcement learning, which restoration tools to call and in what order <a href="https://openaccess.thecvf.com/content/CVPR2026F/papers/Lu_Restore-R1_Efficient_Image_Restoration_Agents_via_Reinforcement_Learning_with_Multimodal_CVPRF_2026_paper.pdf">[Paper]</a>.
   </div>
   <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
@@ -102,10 +127,10 @@ nav_order: 1
 
 <hr class="demo-divider" />
 
-<!-- ── Demo 3 ─────────────────────────────────────────────── -->
+<!-- ── Demo 4 ─────────────────────────────────────────────── -->
 <div class="demo-item">
   <div class="caption">
-    During my internship at <a href="https://research.adobe.com/">Adobe Research</a>, I worked on quality-controllable visual retrieval (<a href="https://arxiv.org/pdf/2602.21175">ICLR 2026</a>): a lightweight language model refines a short query at a requested aesthetic and relevance level, so the quality of what CLIP-based retrieves is steered through words alone rather than by retraining the computationally expensive retrieval model. See <a href="https://jianglin954.github.io/QCQC/">[Webpage]</a> and <a href="https://jianglin954.github.io/QCQC/demo/index.html">[Live Demo]</a> for details.
+    During my internship at <a href="https://research.adobe.com/">Adobe Research</a>, I worked on quality-controllable visual retrieval: a lightweight language model refines a short query at a requested aesthetic and relevance level, so the quality of what CLIP-based retrieves is steered through words alone rather than by retraining the computationally expensive retrieval model <a href="https://arxiv.org/pdf/2602.21175">[Paper]</a> <a href="https://jianglin954.github.io/QCQC/">[Webpage]</a> <a href="https://jianglin954.github.io/QCQC/demo/index.html">[Live Demo]</a>.
   </div>
   <div class="row justify-content-sm-center">
     <div class="col-sm-10 mt-3 mt-md-0">
