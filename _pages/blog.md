@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: notes
+title: slides
 nav: true
 nav_order: 2
 pagination:
