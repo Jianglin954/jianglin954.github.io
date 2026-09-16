@@ -51,7 +51,10 @@
         muted
       {% endif %}
       {% if include.poster %}
-        poster="{{ include.poster }}"
+        poster="{{ include.poster | relative_url }}"
+      {% endif %}
+      {% if include.preload %}
+        preload="{{ include.preload }}"
       {% endif %}
     />
 
