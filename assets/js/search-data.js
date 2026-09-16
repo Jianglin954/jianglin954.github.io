@@ -9,7 +9,14 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-notes",
+  },{id: "nav-demos",
+          title: "demos",
+          description: "Selected research demos and project pages.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/demos/";
+          },
+        },{id: "nav-notes",
           title: "notes",
           description: "",
           section: "Navigation",
@@ -391,6 +398,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "demos-muse",
+          title: 'MUSE',
+          description: "A unified agentic harness for multimodal large language models",
+          section: "Demos",handler: () => {
+              window.location.href = "/demos/1_muse/";
+            },},{id: "demos-restore-r1",
+          title: 'Restore-R1',
+          description: "Image restoration agents trained with MLLM perceptual feedback",
+          section: "Demos",handler: () => {
+              window.location.href = "/demos/2_restore_r1/";
+            },},{id: "demos-indra",
+          title: 'Indra',
+          description: "A representation hypothesis for multimodal alignment",
+          section: "Demos",handler: () => {
+              window.location.href = "/demos/3_indra/";
             },},{id: "news-one-paper-accepted-to-neurips-2023-see-you-in-new-orleans",
           title: 'One paper accepted to NeurIPS 2023. See you in New Orleans !',
           description: "",
