@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-09-24 16:00
+date: 2026-08-21 00:25
 inline: true
 related_posts: false
 ---
 
-Two papers accepted to <strong>NeurIPS 2026</strong>. See you in Atlanta !
+One paper accepted to <strong>EMNLP 2026</strong> !
